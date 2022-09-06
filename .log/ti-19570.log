@@ -1,0 +1,19 @@
+[12:36:46.085] Global cache location '/home/sander/.cache/typescript/4.5', safe file path '/home/sander/.cache/emacs/var/lsp/server/npm/typescript/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/sander/.cache/emacs/var/lsp/server/npm/typescript/lib/node_modules/typescript/lib/typesMap.json
+[12:36:46.086] Processing cache location '/home/sander/.cache/typescript/4.5'
+[12:36:46.086] Trying to find '/home/sander/.cache/typescript/4.5/package.json'...
+[12:36:46.086] Loaded content of '/home/sander/.cache/typescript/4.5/package.json': {"private":true,"dependencies":{"types-registry":"^0.1.607"}}
+[12:36:46.086] Loaded content of '/home/sander/.cache/typescript/4.5/package-lock.json'
+[12:36:46.086] Finished processing cache location '/home/sander/.cache/typescript/4.5'
+[12:36:46.087] Process id: 19587
+[12:36:46.087] NPM location: /home/sander/.nvm/versions/node/v18.7.0/bin/npm (explicit '--npmLocation' not  provided)
+[12:36:46.087] validateDefaultNpmLocation: false
+[12:36:46.087] Npm config file: /home/sander/.cache/typescript/4.5/package.json
+[12:36:46.087] Updating types-registry npm package...
+[12:36:46.087] Exec: /home/sander/.nvm/versions/node/v18.7.0/bin/npm install --ignore-scripts types-registry@latest
+[12:36:46.714]     Succeeded. stdout:
+    
+    changed 1 package, and audited 2 packages in 440ms
+
+found 0 vulnerabilities
+
+[12:36:46.714] Updated types-registry npm package
